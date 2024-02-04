@@ -1,0 +1,135 @@
+[
+    {
+      "id": 1,
+      "name": "Chiku",
+      "age": "3 Yrs",
+      "weight": "65 kg",
+      "shelter": "Happy Tails Rescue",
+      "location": "New York",
+      "description": "Labrador Retrievers are friendly, outgoing, and high-spirited companions who have more than enough affection to go around for a family looking for a medium-to-large dog.",
+      "breed": "Retriever",
+      "image": "assets/dogs/dog0.png"
+    },
+    {
+      "id": 2,
+      "name": "Sheru",
+      "age": "2 Yrs",
+      "weight": "75 kg",
+      "shelter": "Paws and Claws Shelter",
+      "location": "Los Angeles",
+      "description": "German Shepherds are courageous, confident, and smart. They are extremely faithful and have a high learning ability.",
+      "breed": "Shepherd",
+      "image": "assets/dogs/dog1.png"
+    },
+    {
+      "id": 3,
+      "name": "Tommy",
+      "age": "4 Yrs",
+      "weight": "80 Kg",
+      "shelter": "Second Chance Animal Rescue",
+      "location": "Chicago",
+      "description": "Golden Retrievers are friendly, intelligent, and devoted. They're eager to please and always ready to play, making them great family pets.",
+      "breed": "Retriever",
+      "image": "assets/dogs/dog2.png"
+    },
+    {
+      "id": 4,
+      "name": "Jimmy",
+      "age": "5 Yrs",
+      "weight": "50 Kg",
+      "shelter": "Rescue Me Now",
+      "location": "Houston",
+      "description": "Bulldogs are known for their loose, saggy skin, distinctive pushed-in nose, and adorable wrinkles. They are calm, courageous, and loving companions.",
+      "breed": "Bulldog",
+      "image":"assets/dogs/dog3.png"
+    },
+    {
+      "id": 5,
+      "name": "Billu",
+      "age": "2 Yrs",
+      "weight": "25 Kg",
+      "shelter": "Forever Friends Rescue",
+      "location": "Miami",
+      "description": "Beagles are curious, friendly, and merry. They are also known for their keen sense of smell and tracking abilities.",
+      "breed": "Beagles",
+      "image": "assets/dogs/dog4.png"
+    },
+    {
+      "id": 6,
+      "name": "Stella",
+      "age": "3 Yrs",
+      "weight": "45 Kg",
+      "shelter": "Poodle Palace Rescue",
+      "location": "Seattle",
+      "description": "Poodles are proud, active, and very smart. They come in three sizes: standard, miniature, and toy.",
+      "breed": "Poodles",
+      "image": "assets/dogs/dog5.png"
+    },
+    {
+      "id": 7,
+      "name": "Bhaalu",
+      "age": "2 Yrs",
+      "weight": "60 Kg",
+      "shelter": "Snowflake Husky Rescue",
+      "location": "Denver",
+      "description": "Siberian Huskies are friendly, gentle, and alert. They are known for their thick double coats and striking blue or multicolored eyes.",
+      "breed": "Husky",
+      "image": "assets/dogs/dog6.png"
+    },
+    {
+      "id": 8,
+      "name": "Alii",
+      "age": "4 Yrs",
+      "weight": "70 Kg",
+      "shelter": "Boxer Rescue Association",
+      "location": "Phoenix",
+      "description": "Boxers are bright, energetic, and playful. They are loyal companions and excellent guardians.",
+      "breed": "Boxer",
+      "image": "assets/dogs/dog7.png"
+    },
+    {
+      "id": 9,
+      "name": "Doge",
+      "age": "3 Yrs",
+      "weight": "20 Kg",
+      "shelter": "Shiba Inu Dog Haven",
+      "location": "Dallas",
+      "description": "Dachshunds are curious, lively, and affectionate. They are known for their long bodies and short legs.",
+      "breed": "Dachshund",
+      "image": "assets/dogs/dog8.png"
+    },
+    {
+      "id": 10,
+      "name": "Cheems",
+      "age": "5 Yrs",
+      "weight": "15 Kg",
+      "shelter": "Shih Tzu Rescue Center",
+      "location": "Boston",
+      "description": "Shih Tzus are affectionate, outgoing, and trusting. They are small, sturdy dogs with a long flowing double coat.",
+      "breed": "Shih Tzu",
+      "image": "assets/dogs/dog9.png"
+    },
+    {
+        "id": 11,
+        "name": "Lambu",
+        "age": "3 yrs",
+        "weight": "140 Kg",
+        "shelter": "Giant Paws Rescue",
+        "location": "San Francisco",
+        "description": "Great Danes are gentle giants, friendly, and dependable. They are known for their imposing size and elegant appearance.",
+        "breed": "Great Dane",
+        "image": "assets/dogs/dog10.png"
+      },
+      {
+        "id": 12,
+        "name": "Chipi",
+        "age": "2 Yrs",
+        "weight": "7 Kg",
+        "shelter": "Fluffy Friends Shelter",
+        "location": "Orlando",
+        "description": "Pomeranians are lively, bold, and inquisitive. They are small dogs with a big personality, known for their fluffy double coat and fox-like face.",
+        "breed": "Pomeranian",
+        "image": "assets/dogs/dog11.png"
+      }
+  ]
+  
